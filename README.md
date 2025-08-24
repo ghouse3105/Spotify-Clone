@@ -1,1 +1,1 @@
-# Spotify-Clone
+A responsive Spotify frontend clone built with modern web technologies. This project replicates the UI and user experience of Spotify’s web player, including navigation, playlists, albums, and a music player interface.
